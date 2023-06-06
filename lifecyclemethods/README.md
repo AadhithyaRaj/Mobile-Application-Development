@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-Program to print the text “Hello World”.
+Program to print the text “Activity cycle”.
 Developed by: KAUSHIK R
 Registeration Number :21222104007
 ```
